@@ -1,55 +1,146 @@
-# Hi, I'm Arati Joshi! 👋
+# Hi, I'm Arati Joshi 👋
 
-### Aspiring Data Analyst | Python | SQL | Excel | Power BI
+### Investment Banking Operations | Finance | Data Analytics
 
-Welcome to my GitHub profile!
+I am a finance and operations professional with **9+ years of experience in Investment Banking Operations**, specializing in trade lifecycle management, settlements, reconciliation, OTC brokerage operations and financial reporting across APAC and EMEA markets.
 
-I am passionate about Data Analytics and transforming raw data into meaningful insights that support business decisions.
+With an MBA in Finance and extensive experience in financial services, I bring strong financial domain knowledge, operational expertise, analytical thinking and problem-solving capabilities.
 
-I enjoy working with data, identifying trends, building dashboards, and solving business problems through analytical techniques.
+I combine my industry experience with data analytics technologies to analyze business information, identify trends, generate insights and support data-driven decision-making.
 
-### 🛠️ Technical Skills
+---
 
-- **Programming:** Python
-- **Database:** SQL, MySQL
-- **Data Visualization:** Power BI, Excel
-- **Data Analysis:** Pandas, NumPy, Matplotlib
-- **Tools:** Google Colab, Jupyter Notebook
+## 💼 Professional Experience
 
-### 📊 Featured Projects
+### Credit Suisse Services (India) Pvt. Ltd.
+**ENO – Exempt Non Officer | APAC Settlements**  
+*December 2019 – September 2022*
 
-**1. Hotel Booking Analysis**
-- Customer segmentation and booking analysis.
-- Cancellation trends and customer behaviour.
-- Actionable business recommendations.
+- Managed pre-matching and settlement of equity, fixed income and money market trades across APAC markets.
+- Performed cash and securities reconciliation and investigated discrepancies using Intellimatch.
+- Managed settlement failures by coordinating with counterparties and internal stakeholders.
+- Investigated trade and amount mismatches to minimize settlement delays and financial risks.
+- Processed FX transactions through SWIFT MT599 and payment messages through MT202.
+- Supported Front Office, Middle Office, trading desks and internal and external clients.
 
-**2. Financial Q&A System using FAISS and Gemini**
-- Financial data extraction using Python.
-- Semantic search using FAISS.
-- AI-powered financial question answering using Gemini.
+**Tools:** Intellimatch, AMH, NTPA, IMAN, Exman, SWIFT.
 
-**3. Power BI Dashboard**
-- Interactive data visualization.
-- Business performance analysis.
-- Insights through charts and dashboards.
+### Cognizant
+**Senior Process Executive | OTC Brokerage & Reconciliation**  
+*June 2018 – December 2019*
 
-**4. SQL Practice Projects**
-- Data querying and filtering.
-- Joins, aggregations and analytical queries.
+- Reconciled OTC brokerage invoices against internal systems.
+- Investigated brokerage discrepancies and calculated brokerage for complex OTC financial instruments.
+- Applied country-specific Authorized Broker Rates after reviewing financial products and applicable criteria.
+- Identified discrepancies and helped prevent incorrect brokerage payments.
+- Coordinated with brokers and processed brokerage payments according to regional guidelines.
 
-### 💼 Internship Experience
+**Tools:** MeritSoft, MS Office.
 
-**Data Analytics Intern – Topmentor**
-May 2026 – October 2026
+### Wipro Ltd.
+**Analyst | EMEA Reconciliation – Credit Suisse Account**  
+*July 2014 – May 2018*
 
-- Worked on practical data analytics projects.
-- Applied analytical concepts and tools to real-world datasets.
+- Performed trade and account reconciliation using Intellimatch.
+- Investigated SWIFT messages and allocated funds within SLA timelines.
+- Processed payments and monitored cash flows using AMH and NTPA.
+- Generated and analyzed operational control reports using SAP Business Objects and PeopleSoft.
+- Supported SOX and KPMG audit requirements.
+- Improved operational processes and updated Standard Operating Procedures.
+- Prepared financial reports to support management decision-making.
 
-### 🎯 Career Objective
+**Tools:** Intellimatch, SAP Business Objects, PeopleSoft, AMH, NTPA, MS Office.
 
-To build a career as a Data Analyst by applying my analytical, technical, and problem-solving skills to generate meaningful business insights.
+**Achievements:**
+- Awarded *Excellent Contributor* at Wipro (Credit Suisse Account).
+- Recognized as *Best Performer of the Month* for reducing unapplied funds and lowering operational costs.
 
-### 🤝 Connect With Me
+### ZF Lenksysteme India Pvt. Ltd.
+**Finance Trainee**  
+*January 2013 – April 2014*
 
-- GitHub: https://github.com/Arati-Joshi-Data
+- Posted accounting entries using SAP FICO.
+- Processed domestic and international supplier payments.
+- Conducted vendor and bank reconciliations.
+- Prepared cash flow statements and analyzed expenditure trends.
+- Supported audit activities and maintained banking documentation.
 
+**Tools:** SAP FICO, Tally, MS Office.
+
+### Topmentor
+**Data Analyst Intern**  
+*May 2026 – October 2026*
+
+- Gained practical SQL experience through project-based work.
+
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|---|---|
+| Programming | Python |
+| Databases | SQL, MySQL |
+| Business Intelligence | Power BI |
+| Spreadsheets | Microsoft Excel |
+| Generative AI | Google Gemini |
+| Vector Search | FAISS |
+| Financial Systems | Intellimatch, SAP FICO, SAP Business Objects, AMH, NTPA |
+| Financial Messaging | SWIFT MT599, MT202 |
+
+---
+
+## 📊 Data Analytics Projects
+
+### 1. E-commerce Data Analysis – MySQL
+- Analyzed e-commerce data using SQL.
+- Explored sales performance, customer behavior, product trends and regional insights.
+- Performed return and refund analysis.
+- Used joins, aggregations, CTEs and window functions.
+
+**Repository:** [MySQL Ecommerce Data Analysis](https://github.com/Arati-Joshi-Data/MySQL-Ecommerce-Data-Analysis)
+
+### 2. Power BI Sales Dashboard
+- Developed an interactive sales dashboard.
+- Analyzed sales performance and year-over-year growth.
+- Presented business insights through visualizations and KPIs.
+
+**Repository:** [Power BI Sales Dashboard](https://github.com/Arati-Joshi-Data/Power-bi-sales-dashboard)
+
+### 3. Hotel Booking Analysis – Python
+- Analyzed hotel booking patterns and cancellation trends.
+- Explored customer segmentation and booking behavior.
+- Examined factors affecting cancellations and average daily rates.
+
+### 4. AI-Powered Fundamental Stock Analysis – FAISS & Gemini
+- Developed a financial question-answering system using Retrieval-Augmented Generation (RAG).
+- Used FAISS for semantic search and financial information retrieval.
+- Integrated Google Gemini to generate answers grounded in retrieved financial data.
+- Analyzed fundamental financial metrics for Reliance Industries.
+
+---
+
+## 🎓 Education
+
+- **MBA – Finance**, Pune University | 2012
+- **Bachelor of Commerce (B.Com)**, University of Pune | 2009
+
+---
+
+## 🌟 Key Strengths
+
+- Investment Banking Operations
+- Financial Data Analysis
+- Trade Lifecycle Management
+- Reconciliation and Reporting
+- Business Process Analysis
+- Analytical Thinking and Problem Solving
+- Stakeholder Coordination
+
+---
+
+## 🎯 Professional Focus
+
+Combining financial expertise, investment banking domain knowledge and data analytics to transform business data into meaningful insights and support informed business decisions.
+
+---
+
+**Thank you for visiting my GitHub profile!**
