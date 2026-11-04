@@ -19,21 +19,6 @@ I combine my industry experience with data analytics technologies to analyze bus
 
 - Gained practical experience through project-based work.
 
-## 🛠️ Technical Skills
-
-| Category | Skills |
-|---|---|
-| Programming | Python |
-| Databases | SQL, MySQL |
-| Business Intelligence | Power BI |
-| Spreadsheets | Microsoft Excel |
-| Generative AI | Google Gemini |
-| Vector Search | FAISS |
-| Financial Systems | Intellimatch, SAP FICO, SAP Business Objects, AMH, NTPA |
-| Financial Messaging | SWIFT MT599, MT202 |
-
----
-
 ## 📊 Data Analytics Projects
 
 ### 1. E-commerce Data Analysis – MySQL
@@ -118,6 +103,19 @@ I combine my industry experience with data analytics technologies to analyze bus
 
 **Tools:** SAP FICO, Tally, MS Office.
 
+
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|---|---|
+| Programming | Python |
+| Databases | SQL, MySQL |
+| Business Intelligence | Power BI |
+| Spreadsheets | Microsoft Excel |
+| Generative AI | Google Gemini |
+| Vector Search | FAISS |
+| Financial Systems | Intellimatch, SAP FICO, SAP Business Objects, AMH, NTPA |
+| Financial Messaging | SWIFT MT599, MT202 |
 ---
 
 ## 🎓 Education
